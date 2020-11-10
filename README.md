@@ -1,6 +1,6 @@
 # Java-Question
 Java question on files 
-<p align="center"><img src="https://images.app.goo.gl/f29p79pKs9ssFixL8" width="400"></p>
+
 
 
  * A file exam.txt contains scores of 20 students in their first programming test.
