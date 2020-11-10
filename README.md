@@ -12,7 +12,7 @@ Java question on files
  * -Write the calculated average,minimum score,maximum score and sorted scores back into the file.
  * 
  * NB:Write functions to implement each task while avoiding the use of predefined methods in your program
- */
+ 
  
   * The java file is in src folder and exam.txt is provided
   
