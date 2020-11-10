@@ -14,4 +14,6 @@ Java question on files
  * NB:Write functions to implement each task while avoiding the use of predefined methods in your program
  */
  
-  * The java file is in src folder and exam.txt is provided
+  # The java file is in src folder and exam.txt is provided
+  
+  # Help needed for last method used to write in a file
