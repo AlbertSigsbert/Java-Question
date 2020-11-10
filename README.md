@@ -16,4 +16,4 @@ Java question on files
  
   * The java file is in src folder and exam.txt is provided
   
-   Help needed for last method used to write in a file
+   
